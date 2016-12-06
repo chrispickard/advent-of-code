@@ -576,7 +576,7 @@
 
 (defn zip [& colls]
   (partition (count colls) (apply interleave colls)))
-(apply zip input)
+
 (defn get-freqs [coll]
   (map frequencies (apply zip coll)))
 
