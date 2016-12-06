@@ -1,10 +1,6 @@
 # advent-of-code
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+Taking on the Advent of Code 2016
 
 ## License
 
